@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
-<h3 align="center">A full-stack developer from Louisiana passionate about technology</h3>
+<h3 align="center">A full-stack developer from Louisiana passionate about programming and technology</h3>
 
 - 🔭 I’m currently working on a full-stack recipe application [Chef-Dojo](https://github.com/truittjanney/chef-dojo-recipe-app)
 
@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on [Chef-Dojo: added features such as edit recipe information and categories](https://github.com/truittjanney/chef-dojo-recipe-app)
 
-- 💬 Ask me about **react and SQL**
+- 💬 Ask me about **React and SQL**
 
 - 📫 How to reach me **truittjanney93@gmail.com**
 
-- ⚡ Fun fact **I also have a passion for weightlifting**
+- ⚡ Fun fact **I also have a passion for health/fitness and weightlifting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
