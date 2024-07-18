@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a full-stack recipe application [Chef-Dojo](https://github.com/truittjanney/chef-dojo-recipe-app)
 
-- 🌱 I’m currently learning **data structures and algorithms**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on [Chef-Dojo: added features such as edit recipe information and categories](https://github.com/truittjanney/chef-dojo-recipe-app)
 
