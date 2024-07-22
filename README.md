@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
 <h3 align="center">A full-stack developer from Louisiana passionate about programming and technology</h3>
 
-- 🔭 I’m currently working on a full-stack recipe application [Chef-Dojo](https://github.com/truittjanney/chef-dojo-recipe-app)
+- 🔭 I’m currently working on a full-stack movie blog list application [Chef-Dojo](https://github.com/truittjanney/chef-dojo-recipe-app)
 
 - 🌱 I’m currently learning **AWS**
 
