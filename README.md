@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Chef-Dojo: added features such as edit recipe information and categories](https://github.com/truittjanney/chef-dojo-recipe-app)
 
-- 💬 Ask me about **JavaScript, React, and Python**
+- 💬 Ask me about **React and Python**
 
 - 📫 How to reach me **truittjanney93@gmail.com**
 
