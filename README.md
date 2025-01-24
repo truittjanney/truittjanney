@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
 <h3 align="center">A full-stack developer from Louisiana passionate about programming and technology</h3>
 
-- 🔭 I’m currently working on a full-stack movie blog list application [Chef-Dojo](https://github.com/truittjanney/chef-dojo-recipe-app)
+- 🔭 I’m currently working on a C# certification through freeCodeCamp and Microsoft.
 
-- 🌱 I’m currently learning **data structures and algorithms**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on [Chef-Dojo: added features such as edit recipe information and categories](https://github.com/truittjanney/chef-dojo-recipe-app)
 
-- 💬 Ask me about **React and Python**
+- 💬 Ask me about **JavaScript and SQL**
 
 - 📫 How to reach me **truittjanney93@gmail.com**
 
