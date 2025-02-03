@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
-<h3 align="center">A full-stack developer from Louisiana passionate about programming and technology</h3>
+<h3 align="center">A full-stack software developer from Louisiana passionate about programming and technology</h3>
 
 - 🔭 I’m currently working on a C# certification through freeCodeCamp and Microsoft.
 
