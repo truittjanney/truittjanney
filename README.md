@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
-<h3 align="center">A full-stack software developer from Louisiana passionate about programming and technology</h3>
+<h3 align="center">A tech professional / software developer from Louisiana passionate about technology and programming</h3>
 
 - 🔭 I’m currently working on a C# certification through freeCodeCamp and Microsoft.
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **truittjanney93@gmail.com**
 
-- ⚡ Fun fact **I also have a passion for health/fitness and weightlifting**
+- ⚡ Fun fact **I love weightlifting, reading, and learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
