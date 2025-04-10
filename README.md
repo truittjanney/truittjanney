@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
-<h3 align="center">A tech solutions specialist & software developer from Louisiana passionate about technology and programming</h3>
+<h3 align="center">Software Developer & Data Enthusiast | AWS Certified | Bridging Business, Data, and Code</h3>
 
 - 🔭 I’m currently working on a C# certification through freeCodeCamp and Microsoft.
 
