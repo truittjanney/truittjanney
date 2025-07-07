@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
 <h3 align="center"> AWS Certified Tech Professional | Cloud & DevOps Enthusiast | Bridging Code, Data & Business</h3>
 
-- 🔭 I’m currently brainstorming what my new project will be...
+- 🔭 I’m currently brainstorming what my next project will be...
 
 - 🌱 I’m currently learning **various AWS services**
 
