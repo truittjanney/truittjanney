@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
-<h3 align="center"> AWS Certified Tech Professional | Cloud & DevOps Enthusiast | Bridging Code & Business</h3>
+<h3 align="center"> Junior DevOps & Cloud Engineer | CI/CD | GitHub Actions | Fastlane | AWS Certified</h3>
 
-- 🔭 I’m currently brainstorming what my next project will be...
+- 🔭 I’m currently making changes to my personal website
 
 - 🌱 I’m currently learning **various AWS services**
 
-- 👯 I’m looking to collaborate on [Chef-Dojo: added features such as edit recipe information and categories](https://github.com/truittjanney/chef-dojo-recipe-app)
+- 👯 I’m looking to collaborate on new projects
 
-- 💬 Ask me about **C# and SQL**
+- 💬 Ask me about **Fastlane & AWS**
 
 - 📫 How to reach me **truittjanney93@gmail.com**
 
