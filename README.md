@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
-<h3 align="center"> Junior DevOps & Cloud Engineer | CI/CD | GitHub Actions | Fastlane | AWS Certified</h3>
+<h3 align="center"> DevOps & Cloud Engineer | CI/CD | GitHub Actions | Fastlane | AWS Certified</h3>
 
 - 🔭 I’m currently making changes to my personal website
 
