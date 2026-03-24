@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently making improvements to my cloud infrastructure project
 
-- 🌱 I’m currently learning **various AWS services**
+- 🌱 I’m currently learning **Terraform**
 
 - 👯 I’m looking to collaborate on new projects
 
