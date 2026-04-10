@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a full-stack media storage & vault application
 
-- 🌱 I’m currently learning **cloud infrastructure more in-depth to become an AWS Certified Solutions Architect Associate**
+- 🌱 I’m currently learning cloud infrastructure more in-depth to become an **AWS Certified Solutions Architect Associate**
 
 - 👯 I’m looking to collaborate on new projects
 
