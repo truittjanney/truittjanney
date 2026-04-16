@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
 <h3 align="center"> DevOps & Cloud Engineer | CI/CD | GitHub Actions | Fastlane | AWS Certified</h3>
 
-- 🔭 I’m currently working on a full-stack media storage & vault application
+- 🔭 I’m currently working on a full-stack media storage & vault web application
 
 - 🌱 I’m currently learning cloud infrastructure more in-depth to become an **AWS Certified Solutions Architect Associate**
 
 - 👯 I’m not looking to collaborate on new projects for now
 
-- 💬 Ask me about **Fastlane & AWS**
+- 💬 Ask me about **Fastlane, Terraform, and AWS**
 
 - 📫 How to reach me **truittjanney93@gmail.com**
 
