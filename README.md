@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **truittjanney93@gmail.com**
 
-- ⚡ Fun fact **I have a passion for health & fitness, reading, and learning**
+- ⚡ Fun fact **I have a passion for health & fitness, weightlifting, reading, and learning. I'm also an aspiring martial artist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
