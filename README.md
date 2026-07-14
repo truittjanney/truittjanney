@@ -21,7 +21,7 @@
   </a>
 
   <a href="https://linkedin.com/in/toddtruittjanney" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Todd%20Truitt%20Janney-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-T.%20Truitt%20Janney-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
