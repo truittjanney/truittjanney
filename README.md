@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
-<h3 align="center"> Full-Stack Engineer | DevOps & Cloud | React | Node.js | CI/CD | AWS Certified</h3>
+<h3 align="center"> Full-Stack Software Engineer | DevOps & Cloud | React | Node.js | CI/CD | AWS </h3>
 
-- 🔭 Built <b>MediaVault</b>, a full-stack media storage & vault web app with React, Node.js, PostgreSQL, Prisma, JWT auth, and private Amazon S3 storage
+- 💻 Built **MediaVault**, a full-stack media storage & vault web app with React, Node.js, PostgreSQL, Prisma, JWT auth, and private Amazon S3 storage
 
 - 🌱 I’m currently learning cloud infrastructure more in-depth to become an **AWS Certified Solutions Architect Associate**
 
@@ -15,13 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://truittjanney.com" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-truittjanney.com-0A66C2?style=for-the-badge" alt="Portfolio Website" />
+</a>
 <a href="https://linkedin.com/in/toddtruittjanney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-truitt-janney" height="30" width="40" /></a>
-<a href="https://truittjanney.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-truitt-janney" height="30" width="40" /></a>
-<a href="truittjanney93@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-truitt-janney" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Featured Projects</h3>
-## Featured Projects
 
 - **MediaVault** — Full-stack media storage app with React, Node.js, Express, PostgreSQL, Prisma, JWT auth, and private Amazon S3 file storage.
 - **Cloud Infrastructure Project** — Terraform-based AWS infrastructure with S3, CloudFront, Route 53, ACM, GitHub Actions OIDC, CloudWatch, and SNS.
