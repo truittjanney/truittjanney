@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Fastlane, Terraform, and AWS**
 
-- 📫 How to reach me **truittjanney93@gmail.com**
+- 📫 Email: **truittjanney93@gmail.com**
 
 - ⚡ Fun fact **I have a passion for health & fitness, bodybuilding, reading, and learning. I'm also an aspiring martial artist.**
 
