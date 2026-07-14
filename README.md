@@ -14,11 +14,15 @@
 - ⚡ Fun fact **I have a passion for health & fitness, bodybuilding, reading, and learning. I'm also an aspiring martial artist.**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://truittjanney.com" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Portfolio-truittjanney.com-0A66C2?style=for-the-badge" alt="Portfolio Website" />
-</a>
-<a href="https://linkedin.com/in/toddtruittjanney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-truitt-janney" height="30" width="40" /></a>
+  <a href="https://truittjanney.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-truittjanney.com-0A66C2?style=for-the-badge" alt="Portfolio Website" />
+  </a>
+
+  <a href="https://linkedin.com/in/toddtruittjanney" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Todd%20Truitt%20Janney-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
 </p>
 
 <h3 align="left">Featured Projects</h3>
