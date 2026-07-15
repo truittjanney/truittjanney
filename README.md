@@ -30,7 +30,7 @@
 - **MediaVault** — Full-stack media storage app with React, Node.js, Express, PostgreSQL, Prisma, JWT auth, and private Amazon S3 file storage.
 - **Cloud Infrastructure Project** — Terraform-based AWS infrastructure with S3, CloudFront, Route 53, ACM, GitHub Actions OIDC, CloudWatch, and SNS.
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Skills</h3>
 
 <h4 align="left">DevOps & Cloud</h4>
 <p align="left">
