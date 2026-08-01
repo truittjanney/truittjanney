@@ -3,7 +3,7 @@
 
 - 💻 Built **MediaVault**, a full-stack media storage & vault web app with React, Node.js, PostgreSQL, Prisma, JWT auth, and private Amazon S3 storage
 
-- 🌱 I’m currently learning cloud infrastructure more in-depth to become an **AWS Certified Solutions Architect Associate**
+- 🌱 I’m currently building DevOps & cloud architecture for my full-stack **MediaVault** app.
 
 - 👯 I’m not looking to collaborate on new projects for now
 
