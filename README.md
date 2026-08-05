@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Bash%2FShell%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash/Shell Scripting" />
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" />
-  <img src="https://img.shields.io/badge/Maestro%20Testing-000000?style=for-the-badge" alt="Maestro" />
+  <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge" alt="Maestro" />
   <img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud" />
 </p>
 
@@ -49,8 +49,8 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/Fetch%20API-02569B?style=for-the-badge" alt="Fetch API" />
 </p>
 
