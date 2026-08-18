@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truitt</h1>
-<h3 align="center"> Full-Stack Software Engineer | DevOps & Cloud | React | Node.js | CI/CD | AWS </h3>
+<h3 align="center"> Full-Stack Developer | DevOps & Cloud Experience | React.js, Node.js | AWS Certified </h3>
 
 - 💻 Built **MediaVault**, a full-stack media storage & vault web app with React, Node.js, PostgreSQL, Prisma, JWT auth, and private Amazon S3 storage
 
